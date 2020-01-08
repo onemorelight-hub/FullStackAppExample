@@ -48,3 +48,9 @@ git reset HEAD index.html
 git checkout -- <file_name>
 
 You can also use git reset to reset the staging area to the last commit without disturbing the working directory.
+
+### Git Docs : 
+https://git-scm.com/docs
+
+
+
