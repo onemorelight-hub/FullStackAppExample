@@ -12,5 +12,8 @@ ng help
 ### Start angular project
 ng serve --open
 
+### Creating service 
+ng generate service services/dish
+
 
 
