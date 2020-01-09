@@ -79,9 +79,26 @@ Add the following styles to styles.scss file:
 
 body { 
   padding: 0; 
-  margin: 0; 
+  margin: 0;  
   font-family: Roboto, sans-serif; 
   
 }
 
 This will add a built-in Material theme to our application.
+
+## Important Links:
+### Angular Material
+https://material.angular.io
+### Angular Material Toolbar
+https://material.angular.io/components/toolbar/overview
+### Angular Flex Layout
+https://github.com/angular/flex-layout
+### Angular Flex Layout Documentation
+https://github.com/angular/flex-layout/wiki/API-Documentation
+### Best JavaScript framework
+https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d
+### Type Script tutorial 
+http://www.typescriptlang.org/docs/tutorial.html
+### Typescript: Migrating from JavaScript
+http://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html
+
