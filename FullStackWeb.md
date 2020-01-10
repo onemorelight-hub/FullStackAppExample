@@ -9,3 +9,14 @@ https://www.andyshora.com/full-stack-developers.html
 
 ### What is the 3-Tier Architecture?
 http://www.tonymarston.net/php-mysql/3-tier-architecture.html
+
+### Angular Material Button
+https://material.angular.io/components/button/overview
+
+### HTML5 History, pushState() and replaceState()
+https://developer.mozilla.org/en-US/docs/Web/API/History_API#Adding_and_modifying_history_entries
+
+### HTML5 <base> Element
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+
