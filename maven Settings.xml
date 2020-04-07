@@ -1,0 +1,6 @@
+You can simply use:
+
+mvn --settings YourOwnSettings.xml clean install
+or
+
+mvn -s YourOwnSettings.xml clean install
